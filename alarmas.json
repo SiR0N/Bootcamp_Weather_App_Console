@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "Temperatura (\u00b0C)": 0,
+        "Humedad (%)": 2,
+        "Viento (km/h)": 1,
+        "historico_id": 2
+    },
+    {
+        "id": 2,
+        "Temperatura (\u00b0C)": 0,
+        "Humedad (%)": 2,
+        "Viento (km/h)": 0,
+        "historico_id": 3
+    }
+]

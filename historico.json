@@ -1,0 +1,61 @@
+[
+    {
+        "Fecha": "12/04/2020 01:12",
+        "Estacion": "Vallecas",
+        "Temperatura (\u00b0C)": 40.0,
+        "Humedad (%)": 27.0,
+        "Viento (km/h)": 90.0
+    },
+    {
+        "Fecha": "20/11/2025 09:15",
+        "Estacion": "Vicalvaro",
+        "Temperatura (\u00b0C)": 40.0,
+        "Humedad (%)": 99.0,
+        "Viento (km/h)": 99.0
+    },
+    {
+        "Fecha": "12/01/2025 09:00",
+        "Estacion": "Cuatro Caminos",
+        "Temperatura (\u00b0C)": 20.0,
+        "Humedad (%)": 30.0,
+        "Viento (km/h)": 5.0
+    },
+    {
+        "Fecha": "11/01/2011 09:00",
+        "Estacion": "Pe\u00f1agrande",
+        "Temperatura (\u00b0C)": 25.0,
+        "Humedad (%)": 20.0,
+        "Viento (km/h)": 15.0
+    },
+    {
+        "Fecha": "11/11/1111 09:00",
+        "Estacion": "El Pardo",
+        "Temperatura (\u00b0C)": 13.0,
+        "Humedad (%)": 70.0,
+        "Viento (km/h)": 5.0
+    },
+    {
+        "id": 1,
+        "Fecha": "11/11/1111 08:00",
+        "Estacion": "El Pardo",
+        "Temperatura (\u00b0C)": 15.0,
+        "Humedad (%)": 40.0,
+        "Viento (km/h)": 7.0
+    },
+    {
+        "id": 2,
+        "Fecha": "11/11/1111 01:00",
+        "Estacion": "Juan Carlos I",
+        "Temperatura (\u00b0C)": 5.0,
+        "Humedad (%)": 5.0,
+        "Viento (km/h)": 30.0
+    },
+    {
+        "id": 3,
+        "Fecha": "20/02/2001 09:00",
+        "Estacion": "Barrio del Pilar",
+        "Temperatura (\u00b0C)": 30.0,
+        "Humedad (%)": 5.0,
+        "Viento (km/h)": 30.0
+    }
+]
