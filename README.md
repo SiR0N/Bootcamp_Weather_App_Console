@@ -21,6 +21,7 @@ Incluye persistencia en ficheros JSON, logging profesional y tests unitarios.
 
 - Python **3.10+**
 - pip (gestor de paquetes)
+- pytest
 
 ---
 
