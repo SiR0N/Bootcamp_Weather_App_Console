@@ -1,4 +1,5 @@
 from Log_in import registrar_interno, login_interno
+import pytest
 
 def test_registrar():
     assert(registrar_interno("Laura", "1234") == True)
@@ -17,3 +18,9 @@ def test_login():
     registrar_interno("susana", "5678")
     assert(login_interno("susana", "5678") == True)
     assert(login_interno("susana", "1234") == False)
+
+
+
+if __name__ =="__main__":
+    pytest.main([__file__])
+   

@@ -12,5 +12,19 @@
         "Humedad (%)": 2,
         "Viento (km/h)": 0,
         "historico_id": 3
+    },
+    {
+        "id": 3,
+        "Temperatura (\u00b0C)": 1,
+        "Humedad (%)": 2,
+        "Viento (km/h)": 0,
+        "historico_id": 4
+    },
+    {
+        "id": 4,
+        "Temperatura (\u00b0C)": 1,
+        "Humedad (%)": 2,
+        "Viento (km/h)": 0,
+        "historico_id": 8
     }
 ]
