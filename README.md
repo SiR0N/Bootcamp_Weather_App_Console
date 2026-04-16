@@ -77,9 +77,3 @@ Bootcamp_Weather_App_Console/
 │
 ├── requirements.txt
 └── README.md
-
-
-
-
-
-
