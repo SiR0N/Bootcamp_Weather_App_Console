@@ -32,7 +32,7 @@ Incluye persistencia en ficheros JSON, logging profesional y tests unitarios.
 git clone https://github.com/SiR0N/Bootcamp_Weather_App_Console.git
 cd Bootcamp_Weather_App_Console
 ```
-### 2. Clonar el repositorio
+### 2. Entorno Virtual
 #### Windows
 ```bash
 python -m venv venv
