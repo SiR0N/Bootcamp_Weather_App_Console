@@ -96,7 +96,7 @@ def leer_registro():
         humedad_a = 2
 
     # Mostrar registro
-    print("\n--- Registro guardado ---")
+    print("\n--- Registro a procesar ---")
     for clave, valor in registro.items():
         print(f"{clave}: {valor}")
     

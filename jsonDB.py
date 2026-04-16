@@ -70,7 +70,22 @@ class JsonDB:
             logger.error("Intento de usar append() en un JSON que no es lista.")
             raise TypeError("Este JSON no es una lista")
         
-         # Generar ID autoincremental
+        # Comprobar duplicados
+        tiene_fecha_y_estacion = "Fecha" in item and "Estacion" in item
+
+        if tiene_fecha_y_estacion:
+            for registro in self.data:
+                if (registro.get("Fecha") == item.get("Fecha") and
+                    registro.get("Estacion") == item.get("Estacion")):
+                    
+                    logger.warning(
+                        f"Registro duplicado detectado en {self.path}: "
+                        f"Fecha={item.get('Fecha')}, Estacion={item.get('Estacion')}"
+                    )
+                    print("Registro duplicado, no se guarda")
+                    return None
+            
+        # Generar ID autoincremental
         if len(self.data) == 0:
             new_id = 1
         else:
@@ -82,6 +97,8 @@ class JsonDB:
 
         self.data.append(item_with_id)
         logger.info(f"Append: id: {new_id}, añadido {item} a {self.path} con")
+        print("Registro añadido correctamente.")
+        logger.info(f"Nuevo registro añadido: {item_with_id}")
         self.save()
 
         return new_id
@@ -94,3 +111,17 @@ class JsonDB:
         self.data.extend(items)
         logger.info(f"Extend: añadidos {len(items)} elementos a {self.path}")
         self.save()
+    
+    def delete(self, key):
+        if not isinstance(self.data, dict):
+            logger.error("Intento de usar delete() en un JSON que no es diccionario.")
+            raise TypeError("Este JSON no es un diccionario")
+
+        if key not in self.data:
+            logger.info(f"Delete: {key} no existe en {self.path}")
+            return False
+
+        del self.data[key]
+        logger.info(f"Delete: {key} eliminado de {self.path}")
+        self.save()
+        return True

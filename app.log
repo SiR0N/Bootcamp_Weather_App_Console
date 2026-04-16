@@ -217,3 +217,193 @@
 2026-04-15 14:29:06,010 - INFO - Iniciando JsonDB para alarmas.json
 2026-04-15 14:29:06,010 - INFO - Archivo alarmas.json cargado correctamente.
 2026-04-15 14:30:53,981 - INFO - Aplicación finalizada por el usuario
+2026-04-15 14:53:34,020 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 14:53:34,020 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 14:53:34,021 - INFO - Aplicación iniciada
+2026-04-15 15:02:35,107 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:02:35,107 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:03:06,327 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:03:06,327 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:04:00,908 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:04:00,908 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:04:00,908 - INFO - Exists: Laura -> False
+2026-04-15 15:04:00,908 - INFO - Set: Laura = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:04:00,908 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:04:00,908 - INFO - Exists: Laura -> True
+2026-04-15 15:04:00,908 - INFO - Exists: pepito -> False
+2026-04-15 15:04:00,908 - INFO - Set: pepito = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:04:00,908 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:04:00,909 - INFO - Exists: pepito -> True
+2026-04-15 15:04:00,909 - INFO - Exists: Mario -> False
+2026-04-15 15:04:00,909 - INFO - Exists: susana -> False
+2026-04-15 15:04:00,909 - INFO - Exists: Mario -> False
+2026-04-15 15:04:00,909 - INFO - Set: Mario = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:04:00,909 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:04:00,909 - INFO - Exists: Mario -> True
+2026-04-15 15:04:00,909 - INFO - Exists: Mario -> True
+2026-04-15 15:04:00,909 - INFO - Exists: susana -> False
+2026-04-15 15:04:00,909 - INFO - Set: susana = f8638b979b2f4f793ddb6dbd197e0ee25a7a6ea32b0ae22f5e3c5d119d839e75 en usuarios.json
+2026-04-15 15:04:00,909 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:04:00,909 - INFO - Exists: susana -> True
+2026-04-15 15:04:00,909 - INFO - Exists: susana -> True
+2026-04-15 15:04:17,508 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:04:17,508 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:04:17,508 - INFO - Exists: Laura -> True
+2026-04-15 15:07:38,608 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:07:38,608 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:07:38,712 - INFO - Exists: Laura -> True
+2026-04-15 15:07:38,717 - INFO - Exists: Mario -> True
+2026-04-15 15:08:40,622 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:08:40,622 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:08:40,694 - INFO - Exists: Laura -> False
+2026-04-15 15:08:40,694 - INFO - Set: Laura = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:08:40,694 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:08:40,694 - INFO - Exists: Laura -> True
+2026-04-15 15:08:40,694 - INFO - Exists: pepito -> False
+2026-04-15 15:08:40,694 - INFO - Set: pepito = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:08:40,695 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:08:40,695 - INFO - Exists: pepito -> True
+2026-04-15 15:08:40,695 - INFO - Exists: Mario -> False
+2026-04-15 15:08:40,695 - INFO - Exists: susana -> False
+2026-04-15 15:08:40,695 - INFO - Exists: Mario -> False
+2026-04-15 15:08:40,695 - INFO - Set: Mario = 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4 en usuarios.json
+2026-04-15 15:08:40,696 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:08:40,696 - INFO - Exists: Mario -> True
+2026-04-15 15:08:40,696 - INFO - Exists: Mario -> True
+2026-04-15 15:08:40,696 - INFO - Exists: susana -> False
+2026-04-15 15:08:40,696 - INFO - Set: susana = f8638b979b2f4f793ddb6dbd197e0ee25a7a6ea32b0ae22f5e3c5d119d839e75 en usuarios.json
+2026-04-15 15:08:40,696 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:08:40,696 - INFO - Exists: susana -> True
+2026-04-15 15:08:40,696 - INFO - Exists: susana -> True
+2026-04-15 15:15:01,055 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-15 15:15:01,055 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-15 15:15:01,056 - INFO - Aplicación iniciada
+2026-04-15 15:15:23,589 - INFO - Exists: anas -> False
+2026-04-15 15:15:23,589 - INFO - Set: anas = 6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918 en usuarios.json
+2026-04-15 15:15:23,589 - INFO - Datos guardados en usuarios.json
+2026-04-15 15:15:31,218 - INFO - Exists: anas -> True
+2026-04-15 15:15:31,218 - INFO - Login correcto
+2026-04-15 15:15:31,218 - INFO - Iniciando JsonDB para historico.json
+2026-04-15 15:15:31,218 - INFO - Archivo historico.json cargado correctamente.
+2026-04-15 15:15:31,219 - INFO - Iniciando JsonDB para stations.json
+2026-04-15 15:15:31,219 - INFO - Archivo stations.json cargado correctamente.
+2026-04-15 15:15:31,219 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-15 15:15:31,219 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-15 15:17:07,834 - INFO - Estación seleccionada: El Pardo
+2026-04-15 15:17:07,834 - INFO - 2 registros mostrados para El Pardo
+2026-04-15 15:18:32,683 - INFO - Iniciando JsonDB para stations.json
+2026-04-15 15:18:32,683 - INFO - Archivo stations.json cargado correctamente.
+2026-04-15 15:19:03,358 - INFO - Append: id: 4, añadido {'Fecha': '15/03/2026 09:22', 'Estacion': 'Plaza España', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 3.0} a historico.json con
+2026-04-15 15:19:03,358 - INFO - Datos guardados en historico.json
+2026-04-15 15:19:03,358 - INFO - Nuevo registro añadido: {'Fecha': '15/03/2026 09:22', 'Estacion': 'Plaza España', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 3.0}
+2026-04-15 15:19:03,358 - INFO - Append: id: 3, añadido {'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 4} a alarmas.json con
+2026-04-15 15:19:03,358 - INFO - Datos guardados en alarmas.json
+2026-04-15 15:19:03,359 - WARNING - Alarma 3 generada para registro 4: {'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 4}
+2026-04-15 15:20:17,554 - INFO - Estación seleccionada para alarmas: J.M.D. Moratalaz
+2026-04-15 15:20:17,555 - INFO - No hay alarmas para J.M.D. Moratalaz
+2026-04-15 15:20:58,815 - INFO - Estación seleccionada para alarmas: Matadero 02
+2026-04-15 15:20:58,815 - INFO - No hay alarmas para Matadero 02
+2026-04-15 15:21:13,902 - INFO - Aplicación finalizada por el usuario
+2026-04-16 13:15:56,193 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 13:15:56,193 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 13:15:56,194 - INFO - Aplicación iniciada
+2026-04-16 13:16:04,522 - INFO - Exists: pepe -> True
+2026-04-16 13:16:04,522 - INFO - Login correcto
+2026-04-16 13:16:04,522 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 13:16:04,522 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 13:16:04,522 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:16:04,522 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:16:04,522 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 13:16:04,522 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 13:16:21,604 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:16:21,604 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:16:32,082 - INFO - Append: id: 5, añadido {'Fecha': '11/11/1111 09:00', 'Estacion': 'El Pardo', 'Temperatura (°C)': 12.0, 'Humedad (%)': 12.0, 'Viento (km/h)': 12.0} a historico.json con
+2026-04-16 13:16:32,083 - INFO - Datos guardados en historico.json
+2026-04-16 13:16:32,083 - INFO - Nuevo registro añadido: {'Fecha': '11/11/1111 09:00', 'Estacion': 'El Pardo', 'Temperatura (°C)': 12.0, 'Humedad (%)': 12.0, 'Viento (km/h)': 12.0}
+2026-04-16 13:24:05,621 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 13:24:05,621 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 13:24:05,622 - INFO - Aplicación iniciada
+2026-04-16 13:24:10,086 - INFO - Exists: pepe -> True
+2026-04-16 13:24:10,086 - INFO - Login correcto
+2026-04-16 13:24:10,086 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 13:24:10,086 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 13:24:10,086 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:24:10,086 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:24:10,086 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 13:24:10,086 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 13:24:57,376 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:24:57,376 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:25:08,245 - WARNING - Registro duplicado detectado en historico.json: Fecha=11/11/1111 09:00, Estacion=El Pardo
+2026-04-16 13:37:15,895 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 13:37:15,895 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 13:37:15,896 - INFO - Aplicación iniciada
+2026-04-16 13:37:22,779 - INFO - Exists: pepe -> True
+2026-04-16 13:37:22,780 - INFO - Login correcto
+2026-04-16 13:37:22,780 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 13:37:22,780 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 13:37:22,780 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:37:22,780 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:37:22,780 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 13:37:22,780 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 13:37:43,438 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:37:43,438 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:37:53,013 - WARNING - Registro duplicado detectado en historico.json: Fecha=11/11/1111 09:00, Estacion=El Pardo
+2026-04-16 13:38:22,434 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:38:22,434 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:38:37,320 - INFO - Append: id: 6, añadido {'Fecha': '11/11/1111 09:45', 'Estacion': 'El Pardo', 'Temperatura (°C)': 30.0, 'Humedad (%)': 20.0, 'Viento (km/h)': 20.0} a historico.json con
+2026-04-16 13:38:37,320 - INFO - Nuevo registro añadido: {'id': 6, 'Fecha': '11/11/1111 09:45', 'Estacion': 'El Pardo', 'Temperatura (°C)': 30.0, 'Humedad (%)': 20.0, 'Viento (km/h)': 20.0}
+2026-04-16 13:38:37,320 - INFO - Datos guardados en historico.json
+2026-04-16 13:50:35,400 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 13:50:35,400 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 13:50:35,400 - INFO - Aplicación iniciada
+2026-04-16 13:51:28,022 - INFO - Exists: ana -> False
+2026-04-16 13:51:28,022 - INFO - Set: ana = 6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918 en usuarios.json
+2026-04-16 13:51:28,023 - INFO - Datos guardados en usuarios.json
+2026-04-16 13:51:54,132 - INFO - Exists: ana -> True
+2026-04-16 13:51:54,132 - INFO - Login correcto
+2026-04-16 13:51:54,132 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 13:51:54,132 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 13:51:54,132 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:51:54,132 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:51:54,132 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 13:51:54,132 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 13:52:01,200 - INFO - Aplicación finalizada por el usuario
+2026-04-16 13:56:56,047 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 13:56:56,047 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 13:56:56,047 - INFO - Aplicación iniciada
+2026-04-16 13:57:09,438 - INFO - Exists: pepe -> True
+2026-04-16 13:57:09,438 - INFO - Login correcto
+2026-04-16 13:57:09,438 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 13:57:09,438 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 13:57:09,438 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:57:09,438 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:57:09,438 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 13:57:09,438 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 13:57:28,224 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 13:57:28,224 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 13:57:45,844 - INFO - Append: id: 7, añadido {'Fecha': '11/11/1111 09:45', 'Estacion': 'Moratalaz', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 15.0} a historico.json con
+2026-04-16 13:57:45,844 - INFO - Nuevo registro añadido: {'id': 7, 'Fecha': '11/11/1111 09:45', 'Estacion': 'Moratalaz', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 15.0}
+2026-04-16 13:57:45,844 - INFO - Datos guardados en historico.json
+2026-04-16 13:57:45,844 - WARNING - Registro duplicado detectado en alarmas.json: Fecha=None, Estacion=None
+2026-04-16 13:57:45,844 - WARNING - Alarma None generada para registro 7: {'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 7}
+2026-04-16 14:03:16,513 - INFO - Aplicación finalizada por el usuario
+2026-04-16 14:03:20,928 - INFO - Iniciando JsonDB para usuarios.json
+2026-04-16 14:03:20,928 - INFO - Archivo usuarios.json cargado correctamente.
+2026-04-16 14:03:20,928 - INFO - Aplicación iniciada
+2026-04-16 14:03:25,096 - INFO - Exists: pepe -> True
+2026-04-16 14:03:25,096 - INFO - Login correcto
+2026-04-16 14:03:25,096 - INFO - Iniciando JsonDB para historico.json
+2026-04-16 14:03:25,096 - INFO - Archivo historico.json cargado correctamente.
+2026-04-16 14:03:25,096 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 14:03:25,097 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 14:03:25,097 - INFO - Iniciando JsonDB para alarmas.json
+2026-04-16 14:03:25,097 - INFO - Archivo alarmas.json cargado correctamente.
+2026-04-16 14:04:18,477 - INFO - Iniciando JsonDB para stations.json
+2026-04-16 14:04:18,478 - INFO - Archivo stations.json cargado correctamente.
+2026-04-16 14:04:29,150 - INFO - Append: id: 8, añadido {'Fecha': '11/11/1111 09:50', 'Estacion': 'Juan Carlos I', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 15.0} a historico.json con
+2026-04-16 14:04:29,150 - INFO - Nuevo registro añadido: {'id': 8, 'Fecha': '11/11/1111 09:50', 'Estacion': 'Juan Carlos I', 'Temperatura (°C)': 40.0, 'Humedad (%)': 5.0, 'Viento (km/h)': 15.0}
+2026-04-16 14:04:29,150 - INFO - Datos guardados en historico.json
+2026-04-16 14:04:29,150 - INFO - Append: id: 4, añadido {'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 8} a alarmas.json con
+2026-04-16 14:04:29,150 - INFO - Nuevo registro añadido: {'id': 4, 'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 8}
+2026-04-16 14:04:29,150 - INFO - Datos guardados en alarmas.json
+2026-04-16 14:04:29,150 - WARNING - Alarma 4 generada para registro 8: {'Temperatura (°C)': 1, 'Humedad (%)': 2, 'Viento (km/h)': 0, 'historico_id': 8}

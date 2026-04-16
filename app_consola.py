@@ -97,8 +97,8 @@ def main():
                 # Añadir al JSON
                 id = historico_db.append(registro)
 
-                print("Registro añadido correctamente.")
-                logger.info(f"Nuevo registro añadido: {registro}")
+                
+                
 
                 if alarma != None:
                     alarma["historico_id"] = id
