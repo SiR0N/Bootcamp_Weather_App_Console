@@ -37,7 +37,7 @@ cd Bootcamp_Weather_App_Console
 #### Windows
 ```bash
 python -m venv venv
-venv\Scripts\activate
+venv/Scripts/activate
 ```
 #### macOS / Linux
 ```bash
